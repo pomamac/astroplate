@@ -2,7 +2,7 @@
 title: 'Les effets du smartphone sur le cerveau des seniors '
 meta_title: ''
 description: this is meta description
-date: '2022-04-04T05:00:00.000Z'
+date: 2026-01-21T23:00:00.000Z
 image: media/public/images/Untitled.jpg
 categories:
   - Application
