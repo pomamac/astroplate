@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: git-gatewa/astroplate
+  repo: pomamac
   branch: main
 
 media_folder: "public/media"
