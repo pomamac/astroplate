@@ -11,7 +11,7 @@ author: Pierre Mathon
 tags:
   - nextjs
   - tailwind
-draft: true
+draft: false
 ---
 \#### Les effets d'une surutilisation du smartphone chez les seniors
 
