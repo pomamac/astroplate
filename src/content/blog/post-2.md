@@ -1,5 +1,5 @@
 ---
-title: "Comment les smuiley modifient notre rapport a l autre "
+title: "Comment les smiley modifient notre rapport a l autre "
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
