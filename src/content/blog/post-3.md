@@ -3,7 +3,7 @@ title: "La loi californienne de régulation de l'IA : derrière l'arbre se cache
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "image article Californie.jpeg"
 categories: ["Software"]
 author: "Pierre Oscar Mathon"
 tags: ["software", "tailwind"]
